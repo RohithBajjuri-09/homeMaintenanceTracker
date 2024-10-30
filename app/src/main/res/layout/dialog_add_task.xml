@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/descriptionInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Task Description" />
+
+    <EditText
+        android:id="@+id/dateInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Date (YYYY-MM-DD)" />
+
+    <EditText
+        android:id="@+id/providerInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="service provider" />
+</LinearLayout>
