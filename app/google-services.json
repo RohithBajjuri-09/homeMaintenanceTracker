@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777332144082",
+    "project_id": "home-maintenance-tracker-a992d",
+    "storage_bucket": "home-maintenance-tracker-a992d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777332144082:android:133442a7ab34fbbc643a0b",
+        "android_client_info": {
+          "package_name": "com.example.homemaintenancetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKohx8ulJRzK-wLEu-mIHykbzyxcm3mn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
